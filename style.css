@@ -1,0 +1,26 @@
+
+header{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    background-color: wheat;
+    border: 4px, black, solid;
+
+}
+
+
+h2{
+    text-decoration: underline;
+    
+}
+section{
+    padding-left: 1cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+li{
+    padding-top: 0.1cm;
+    padding-bottom: 0.1cm;
+}
